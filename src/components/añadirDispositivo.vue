@@ -68,7 +68,7 @@ const cancelar = () => {
     display: flex;
     flex-flow: row;
     position: fixed;
-    top: -45;
+    top: 0;
     left: 0;
     width: 100%;
     height: 100%;
